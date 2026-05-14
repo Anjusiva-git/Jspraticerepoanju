@@ -13,3 +13,5 @@ class jeep{
 
 let j1 = new jeep()
 j1.start()
+
+console.log("hello")
